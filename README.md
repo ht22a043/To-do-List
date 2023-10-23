@@ -11,7 +11,7 @@
 このプロジェクトに貢献することで、あなたの制作した To-do リストが公開されます。
 
 完成品の例がこのようになります
-→ <https://class-of-grad-net-2023.github.io/To-do-List/submit/ht99a999/>
+→ <https://hisa-lab.github.io/To-do-List/submit/ht99a999/>
 
 あなたの変更がこのリポジトリにマージされると、
 `https://class-of-grad-net-2023.github.io/To-do-List/submit/学籍番号/`
